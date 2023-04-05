@@ -1,0 +1,185 @@
+<IssueSpecification version="4">
+	<Name>
+		<en>Demo DNA medicine pass</en>
+		<nl>Demo DNA medicatiepas</nl>
+	</Name>
+	<ShortName>
+		<en>Demo DNA medicine pass</en>
+		<nl>Demo DNA medicatiepas</nl>
+	</ShortName>
+	<SchemeManager>irma-demo</SchemeManager>
+	<IssuerID>DNAmedicatiepas</IssuerID>
+	<CredentialID>demoDNAmedicatiepas</CredentialID>
+	<Description>
+		<en>The DNA medicine pass contains specific gene variants in your DNA relevant for certain medicine.</en>
+		<nl>De DNA medicatiepas bevat specifieke genvarianten van jouw DNA die relevant kunnen zijn voor bepaalde geneesmiddelen.</nl>
+	</Description>
+	<IssueURL>
+		<en>https://privacybydesign.foundation/attribute-index/en/irma-demo.DNAmedicatiepas.demoDNAmedicatiepas.html</en>
+		<nl>https://privacybydesign.foundation/attribute-index/nl/irma-demo.DNAmedicatiepas.demoDNAmedicatiepas.html</nl>
+	</IssueURL>
+    <ShouldBeSingleton>true</ShouldBeSingleton>
+
+	<Attributes>
+		<Attribute id="ABCG2" displayIndex="0">
+			<Name>
+				<en>ABCG2 gene variant</en>
+				<nl>ABCG2 gen variant</nl>
+			</Name>
+			<Description>
+				<en>The variant of the ABCG2 gene.</en>
+				<nl>De variant van het ABCG2 gen.</nl>
+			</Description>
+		</Attribute>
+		<Attribute id="CYP2B6" displayIndex="1">
+			<Name>
+				<en>CYP2B6 gene variant</en>
+				<nl>CYP2B6 gen variant</nl>
+			</Name>
+			<Description>
+				<en>The variant of the CYP2B6 gene.</en>
+				<nl>De variant van het CYP2B6 gen.</nl>
+			</Description>
+		</Attribute>
+				<Attribute id="CYP2C19" displayIndex="2">
+			<Name>
+				<en>CYP2C19 gene variant</en>
+				<nl>CYP2C19 gen variant</nl>
+			</Name>
+			<Description>
+				<en>The variant of the CYP2C19 gene.</en>
+				<nl>De variant van het CYP2C19 gen.</nl>
+			</Description>
+		</Attribute>
+		<Attribute id="CYP2C9" displayIndex="3">
+			<Name>
+				<en>CYP2C9 gene variant</en>
+				<nl>CYP2C9 gen variant</nl>
+			</Name>
+			<Description>
+				<en>The variant of the CYP2C9 gene.</en>
+				<nl>De variant van het CYP2C9 gen.</nl>
+			</Description>
+		</Attribute>
+		<Attribute id="CYP2D6" displayIndex="4">
+			<Name>
+				<en>CYP2D6 gene variant</en>
+				<nl>CYP2D6 gen variant</nl>
+			</Name>
+			<Description>
+				<en>The variant of the CYP2D6 gene.</en>
+				<nl>De variant van het CYP2D6 gen.</nl>
+			</Description>
+		</Attribute>
+		<Attribute id="CYP3A4" displayIndex="5">
+			<Name>
+				<en>CYP3A4 gene variant</en>
+				<nl>CYP3A4 gen variant</nl>
+			</Name>
+			<Description>
+				<en>The variant of the CYP3A4 gene.</en>
+				<nl>De variant van het CYP3A4 gen.</nl>
+			</Description>
+		</Attribute>
+		<Attribute id="CYP3A5" displayIndex="6">
+			<Name>
+				<en>CYP3A5 gene variant</en>
+				<nl>CYP3A5 gen variant</nl>
+			</Name>
+			<Description>
+				<en>The variant of the CYP3A5 gene.</en>
+				<nl>De variant van het CYP3A5 gen.</nl>
+			</Description>
+		</Attribute>
+		<Attribute id="DPYD" displayIndex="7">
+			<Name>
+				<en>DPYD gene variant</en>
+				<nl>DPYD gen variant</nl>
+			</Name>
+			<Description>
+				<en>The variant of the DPYD gene.</en>
+				<nl>De variant van het DPYD gen.</nl>
+			</Description>
+		</Attribute>
+		<Attribute id="F5" displayIndex="8">
+			<Name>
+				<en>F5 gene variant</en>
+				<nl>F5 gen variant</nl>
+			</Name>
+			<Description>
+				<en>The variant of the F5 gene.</en>
+				<nl>De variant van het F5 gen.</nl>
+			</Description>
+		</Attribute>
+		<Attribute id="HLA-A" displayIndex="9">
+			<Name>
+				<en>HLA-A gene variant</en>
+				<nl>HLA-A gen variant</nl>
+			</Name>
+			<Description>
+				<en>The variant of the HLA-A gene.</en>
+				<nl>De variant van het HLA-A gen.</nl>
+			</Description>
+		</Attribute>
+		<Attribute id="HLA-B" displayIndex="10">
+			<Name>
+				<en>HLA-B gene variant</en>
+				<nl>HLA-B gen variant</nl>
+			</Name>
+			<Description>
+				<en>The variant of the HLA-B gene.</en>
+				<nl>De variant van het HLA-B gen.</nl>
+			</Description>
+		</Attribute>
+		<Attribute id="NUDT15" displayIndex="11">
+			<Name>
+				<en>NUDT15 gene variant</en>
+				<nl>NUDT15 gen variant</nl>
+			</Name>
+			<Description>
+				<en>The variant of the NUDT15 gene.</en>
+				<nl>De variant van het NUDT15 gen.</nl>
+			</Description>
+		</Attribute>
+		<Attribute id="SLCO1B1" displayIndex="12">
+			<Name>
+				<en>SLCO1B1 gene variant</en>
+				<nl>SLCO1B1 gen variant</nl>
+			</Name>
+			<Description>
+				<en>The variant of the SLCO1B1 gene.</en>
+				<nl>De variant van het SLCO1B1 gen.</nl>
+			</Description>
+		</Attribute>
+		<Attribute id="TPMT" displayIndex="13">
+			<Name>
+				<en>TPMT gene variant</en>
+				<nl>TPMT gen variant</nl>
+			</Name>
+			<Description>
+				<en>The variant of the TPMT gene.</en>
+				<nl>De variant van het TPMT gen.</nl>
+			</Description>
+		</Attribute>
+		<Attribute id="UGT1A1" displayIndex="14">
+			<Name>
+				<en>UGT1A1 gene variant</en>
+				<nl>UGT1A1 gen variant</nl>
+			</Name>
+			<Description>
+				<en>The variant of the UGT1A1 gene.</en>
+				<nl>De variant van het UGT1A1 gen.</nl>
+			</Description>
+		</Attribute>
+		<Attribute id="VKORC1" displayIndex="15">
+			<Name>
+				<en>VKORC1 gene variant</en>
+				<nl>VKORC1 gen variant</nl>
+			</Name>
+			<Description>
+				<en>The variant of the VKORC1 gene.</en>
+				<nl>De variant van het VKORC1 gen.</nl>
+			</Description>
+		</Attribute>
+	</Attributes>
+</IssueSpecification>

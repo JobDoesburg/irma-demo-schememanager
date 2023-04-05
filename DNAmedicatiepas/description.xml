@@ -1,0 +1,15 @@
+<Issuer version="4">
+  <ID>DNAmedicatiepas</ID>
+  <Name>
+	  <en>Demo DNA medicine pass</en>
+	  <nl>Demo DNA medicatiepas</nl>
+  </Name>
+  <ShortName>
+	  <en>Demo DNA medicine pass</en>
+	  <nl>Demo DNA medicatiepas</nl>
+  </ShortName>
+  <SchemeManager>irma-demo</SchemeManager>
+  <ContactAddress>Een adres</ContactAddress>
+  <ContactEMail>demodnamedicatiepas@example.com</ContactEMail>
+  <baseURL>https://mijndnamedicatiepas.nl</baseURL>
+</Issuer>
