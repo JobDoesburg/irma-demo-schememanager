@@ -30,6 +30,9 @@
 				<en>The variant of the ABCG2 gene.</en>
 				<nl>De variant van het ABCG2 gen.</nl>
 			</Description>
+      <AuthorisedRequestors>
+        <RequestorID>irma-demo-requestors.jobdoesburg-demo</RequestorID>
+      </AuthorisedRequestors>
 		</Attribute>
 		<Attribute id="CYP2B6" displayIndex="1">
 			<Name>
